@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="login_box_background">@android:color/black</color>
+    <color name="login_box_title_background">#222222</color>
+    <color name="login_box_title_text">#eaeaea</color>
+    <color name="login_box_entry_field_background">#111111</color>
+    <color name="login_box_entry_field_name_text">#494949</color>
+    <color name="login_box_entry_field_value_text">#71c579</color>
+    <color name="login_action_button_background">#222222</color>
+
+</resources>

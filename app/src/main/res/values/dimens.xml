@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="login_box_width">400dp</dimen>
+    <dimen name="login_box_title_padding">20dp</dimen>
+    <dimen name="login_box_title_text_size">24sp</dimen>
+    <dimen name="login_box_field_separation">2dp</dimen>
+    <dimen name="login_box_entry_field_height">80dp</dimen>
+    <dimen name="login_box_entry_field_name_text_size">24sp</dimen>
+    <dimen name="login_box_entry_field_name_padding">24dp</dimen>
+    <dimen name="login_box_entry_field_value_text_size">22sp</dimen>
+    <dimen name="login_account_mode_padding">20dp</dimen>
+    <dimen name="login_action_button_height">80dp</dimen>
+    <dimen name="login_action_text_spacing">10dp</dimen>
+
+</resources>
